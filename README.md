@@ -1,4 +1,4 @@
-# CS-320
+# CS-320 Software Testing
 
 ## How can I ensure that my code, program, or software is functional and secure?
 I prioritize documenting and adhering to all project requirements to ensure functionality and security. I implement testing early in development and continue testing throughout the project lifecycle. This proactive approach avoids delays in identifying issues and ensures the code meets functional and security standards.
